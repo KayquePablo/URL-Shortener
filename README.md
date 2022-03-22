@@ -1,6 +1,10 @@
-# url-shortener-dio
+# URL-Shortener
 
-Projeto criado junto da DIO para construção de um Encurtador de URL.
+## Objetivos do Projeto
+
+- Construção de uma API com Node.js e TypeScript
+- Gerar Hashes únicas para cada entrada
+- Conectar as entradas com as Haches geradas
 
 ## Rodando o projeto
 
@@ -11,9 +15,8 @@ Projeto criado junto da DIO para construção de um Encurtador de URL.
 Algumas informações sobre os vídeos:
 
 - Editor de Texto usado: VSCode
-  - Color Theme do editor: Material UI e Bluloco Dark
 - Programa para verificar as requests: Insomnia
 
 Informações pessoais:
 
-- Meu linkedin: https://www.linkedin.com/in/alexiapereira/
+- Meu linkedin: https://www.linkedin.com/in/kayque-pablo-141a7021a
